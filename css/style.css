@@ -96,7 +96,9 @@ a {
         margin-right: 20px; }
 
 .hero {
-  background-image: url("../images/Sliding.jpeg");
+  background-color: #314d43;
+  width: 100%;
+  object-fit: cover;
   padding: calc(4rem - 30px) 0 0rem 0; }
   @media (min-width: 768px) {
     .hero {
