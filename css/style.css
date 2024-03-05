@@ -800,15 +800,15 @@ svg{
 .slider .list .item .content p:nth-child(1){
     text-transform: uppercase;
     letter-spacing: 10px;
-    color: #eee;
-    font-weight: 200;
+    color: #f30000;
+    font-weight: 400;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .slider .list .item .content h2{
     font-size: 100px;
     font-family: 'Times New Roman', Times, serif;
     margin: 0;
-    color: #ffffff;
+    color:hsl(0, 0%, 100%);
     font-weight: bold;
     
 }
@@ -853,7 +853,7 @@ svg{
     height: 40px;
     border-radius: 5px;
     font-size: x-large;
-    color: #eee;
+    color: #000;
     transition: .5s;
 }
 .arrows button:hover{
